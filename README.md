@@ -1,5 +1,7 @@
 # Awesome Free SEO Tools
 
+![Awesome Free SEO Tools: free SEO and webmaster tools grouped by job](assets/banner.png)
+
 A curated list of **free** SEO and webmaster tools: things you can use without paying, grouped by the job you need done. Every entry is free to use (some have paid upgrades; the free part is what is listed).
 
 > **Disclosure:** this list is maintained by [Nadeem Akram](https://seopeck.com/page/about-us), who also builds [SEOpeck](https://seopeck.com). SEOpeck tools are marked **(SEOpeck)** so you can tell them apart. Suggestions for other free tools are welcome; see [Contributing](#contributing).
@@ -35,6 +37,9 @@ The first two tools every site should set up. They show how search engines see y
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/): desktop crawler for finding broken links, redirects, missing titles and duplicate content (free up to 500 URLs).
 - [On-Page SEO Checker](https://seopeck.com/tool/seo-checker) **(SEOpeck)**: audits one URL's title, meta description, headings, image alt text, links, canonical, robots directives, Open Graph and JSON-LD, with a score and advice per check.
 - [Word Density Counter](https://seopeck.com/tool/word-density-counter) **(SEOpeck)**: shows how often each word appears in a piece of text.
+- [SEOpeck SEO Checker extension](https://chromewebstore.google.com/detail/seopeck-seo-checker-websi/pfnejidgfmndnhdibchdfplfjoohhcip) **(SEOpeck)**: Chrome and Edge extension that audits the page you are on: score and issue list, headings, schema, technologies and robots.txt.
+- [Wappalyzer](https://www.wappalyzer.com/apps/): browser extension that shows the CMS, frameworks and other technologies a site uses (the extension is free).
+- [CMS Detector](https://seopeck.com/tool/cms-detector) **(SEOpeck)**: shows which CMS, ecommerce platform, framework and analytics a website is built with, without installing anything.
 
 ## Titles, descriptions and social previews
 
@@ -53,6 +58,8 @@ The first two tools every site should set up. They show how search engines see y
 - [AI Crawler Checker](https://seopeck.com/tool/ai-crawler-checker) **(SEOpeck)**: reads a site's robots.txt and shows which AI crawlers (GPTBot, ClaudeBot, Google-Extended, PerplexityBot and more) are allowed or blocked.
 - [ai-crawlers-robots-txt](https://github.com/Nadeem035/ai-crawlers-robots-txt): a maintained list of AI crawler user agents with ready-to-use robots.txt templates (same maintainer).
 - [Robots.txt Generator](https://seopeck.com/tool/robotstxt-generator) **(SEOpeck)**: builds a robots.txt with per-crawler rules, crawl delay and a sitemap line.
+- [llms.txt Checker](https://seopeck.com/tool/llms-txt-checker) **(SEOpeck)**: checks whether a site has an llms.txt file and whether it follows the format.
+- [llmstxt.org](https://llmstxt.org/): the proposal that defines the llms.txt format.
 - [XML-Sitemaps.com](https://www.xml-sitemaps.com/): generates an XML sitemap for small sites (free up to 500 pages).
 
 ## Redirects, status codes and headers
@@ -61,7 +68,7 @@ The first two tools every site should set up. They show how search engines see y
 - [HTTP Status Code Checker](https://seopeck.com/tool/http-status-code-checker) **(SEOpeck)**: shows the status code a URL returns.
 - [HTTP Headers Parser](https://seopeck.com/tool/http-headers-parser) **(SEOpeck)**: shows every response header, including caching and security headers.
 - [.htaccess Redirect Generator](https://seopeck.com/tool/htaccess-generator) **(SEOpeck)**: writes Apache redirect rules.
-- [MDN: HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status): the reference for what each code means.
+- [MDN: HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status): the reference for what each code means.
 
 ## Speed and Core Web Vitals
 
@@ -82,17 +89,20 @@ The first two tools every site should set up. They show how search engines see y
 - [MX Lookup](https://seopeck.com/tool/mx-lookup) **(SEOpeck)**: the mail servers for a domain, in priority order.
 - [Domain WHOIS](https://seopeck.com/tool/domain-whois) **(SEOpeck)**: registrar and expiry date of a domain.
 - [Website Status Checker](https://seopeck.com/tool/website-status-checker) **(SEOpeck)**: is a site down for everyone or just for you.
+- [SPF, DKIM & DMARC Checker](https://seopeck.com/tool/spf-dkim-dmarc-checker) **(SEOpeck)**: checks a domain's email authentication records and explains what is missing.
+- [MxToolbox SuperTool](https://mxtoolbox.com/SuperTool.aspx): DNS, MX, blacklist and email-health lookups in one place.
 
 ## Keyword research
 
 - [Google Trends](https://trends.google.com/): relative search interest over time and by region, and rising related queries.
-- [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/): search volume ranges and keyword ideas (free with a Google Ads account; no ad spend needed).
+- [Google Keyword Planner](https://business.google.com/en-all/ad-tools/keyword-planner/): search volume ranges and keyword ideas (free with a Google Ads account; no ad spend needed).
 - Google Search Console's Performance report is the best free keyword tool for an existing site: it shows the real queries you already appear for.
 
 ## Backlinks
 
 - [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools): free backlink and site audit data for sites you can verify you own.
 - Google Search Console's Links report lists the sites that link to you most.
+- Bing Webmaster Tools has a free Backlinks report too, and lets you compare your links with other domains.
 
 ## Content and text
 
@@ -110,7 +120,7 @@ The first two tools every site should set up. They show how search engines see y
 ## Learning resources
 
 - [Google Search Central documentation](https://developers.google.com/search/docs): Google's own guidance on crawling, indexing, ranking and structured data.
-- [Bing Webmaster Guidelines](https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a): Bing's equivalent.
+- [Bing Webmaster Guidelines](https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a): Bing's equivalent.
 - [SEOpeck blog](https://seopeck.com/blog) **(SEOpeck)**: plain-language guides, such as the [on-page SEO checklist](https://seopeck.com/blog/on-page-seo-checklist) and [how to write title tags and meta descriptions](https://seopeck.com/blog/how-to-write-title-tags-and-meta-descriptions).
 
 ## Contributing
