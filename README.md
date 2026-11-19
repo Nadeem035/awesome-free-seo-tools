@@ -91,6 +91,7 @@ The first two tools every site should set up. They show how search engines see y
 - [Website Status Checker](https://seopeck.com/tool/website-status-checker) **(SEOpeck)**: is a site down for everyone or just for you.
 - [SPF, DKIM & DMARC Checker](https://seopeck.com/tool/spf-dkim-dmarc-checker) **(SEOpeck)**: checks a domain's email authentication records and explains what is missing.
 - [MxToolbox SuperTool](https://mxtoolbox.com/SuperTool.aspx): DNS, MX, blacklist and email-health lookups in one place.
+- [ZoneBI](https://zonebi.com/en/?src=gh-awesome-free-seo-tools-en-01): keeps watching a domain's expiry, DNS records, SSL certificate, uptime and SPF/DKIM/DMARC, and alerts you when something breaks or changes. The free plan covers 3 domains.
 
 ## Keyword research
 
