@@ -61,6 +61,7 @@ The first two tools every site should set up. They show how search engines see y
 - [llms.txt Checker](https://seopeck.com/tool/llms-txt-checker) **(SEOpeck)**: checks whether a site has an llms.txt file and whether it follows the format.
 - [llmstxt.org](https://llmstxt.org/): the proposal that defines the llms.txt format.
 - [XML-Sitemaps.com](https://www.xml-sitemaps.com/): generates an XML sitemap for small sites (free up to 500 pages).
+- [WebDecoy for WordPress](https://wordpress.org/plugins/webdecoy/): counts AI crawler requests that reach WordPress, and optionally generates category-based robots.txt rules and llms.txt without an account or API key.
 
 ## Redirects, status codes and headers
 
