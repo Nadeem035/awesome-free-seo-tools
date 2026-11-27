@@ -40,6 +40,7 @@ The first two tools every site should set up. They show how search engines see y
 - [SEOpeck SEO Checker extension](https://chromewebstore.google.com/detail/seopeck-seo-checker-websi/pfnejidgfmndnhdibchdfplfjoohhcip) **(SEOpeck)**: Chrome and Edge extension that audits the page you are on: score and issue list, headings, schema, technologies and robots.txt.
 - [Wappalyzer](https://www.wappalyzer.com/apps/): browser extension that shows the CMS, frameworks and other technologies a site uses (the extension is free).
 - [CMS Detector](https://seopeck.com/tool/cms-detector) **(SEOpeck)**: shows which CMS, ecommerce platform, framework and analytics a website is built with, without installing anything.
+- [Sitewalk for ChatGPT](https://sitewalkseo.com/): technical SEO audit of a site from inside ChatGPT, with problems ranked by what to fix first (5 free audits a month, sign in with an email code).
 
 ## Titles, descriptions and social previews
 
